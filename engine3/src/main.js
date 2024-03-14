@@ -22,6 +22,7 @@ function setup() {
     .addComponent(new RectRenderer(100, 20))
 
 
+    
 }
 
 function draw() {
